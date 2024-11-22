@@ -44,4 +44,9 @@ Incluye un archivo ejecutable para facilitar su uso.
 ### Nombre del `.exe`
 El archivo se llama `programa.exe`:
 
+### Diagrama de Flujo
+
+El diagrama de flujo se encuentra en la carpeta pokeapi, se llama, Diagrama de Flujo.pdf.
+
+
 
