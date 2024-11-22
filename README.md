@@ -52,5 +52,5 @@ El diagrama de flujo se encuentra en la carpeta pokeapi, se llama, Diagrama de F
 
 A continuación, se muestra una captura de pantalla de la interfaz gráfica de la aplicación:
 
-![Vista de la Interfaz](pokeapi/interfaz.png)
+![Vista de la Interfaz](pokeapi/interfaz.PNG)
 
