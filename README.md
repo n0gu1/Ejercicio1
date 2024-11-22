@@ -34,4 +34,5 @@ Esta es una aplicación gráfica construida con `PySide6` que permite buscar inf
 1. **Clonar el repositorio**:
    ```bash
    git clone https://github.com/usuario/pokeapi-gui.git
-   cd pokeapi-gui
+   cd pokeapi
+   py programa.py
