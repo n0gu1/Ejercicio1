@@ -30,9 +30,18 @@ Esta es una aplicación gráfica construida con `PySide6` que permite buscar inf
 ---
 
 ## Instalación
-
+##
 1. **Clonar el repositorio**:
    ```bash
    git clone https://github.com/usuario/pokeapi-gui.git
    cd pokeapi
    py programa.py
+
+## Ejecución con archivo `.exe`
+
+Incluye un archivo ejecutable para facilitar su uso.
+
+### Nombre del `.exe`
+El archivo se llama `programa.exe`:
+
+
