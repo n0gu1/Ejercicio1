@@ -6,7 +6,7 @@ Esta es una aplicación gráfica construida con `PySide6` que permite buscar inf
 
 ## Tecnologías utilizadas
 
-- **Python 3.10+**: Lenguaje de programación principal.
+- **Python 3.10**: Lenguaje de programación principal.
 - **PySide6**: Biblioteca para la creación de la interfaz gráfica.
 - **requests**: Biblioteca para realizar solicitudes HTTP a la API.
 - **PokeAPI**: API pública que proporciona información sobre Pokémon.
